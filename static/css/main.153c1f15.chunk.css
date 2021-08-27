@@ -1,0 +1,2 @@
+.App{display:flex;flex-direction:column;align-items:center;text-align:center;font-size:32px}.table{border-collapse:collapse;width:85%}.table__head{background-color:#0d4745;color:#f0f8ff;font-size:28px;font-family:sans-serif;font-weight:lighter}.table__item--done{background-color:#bcceac}.table__item--undone{background-color:#96a8a0}td,th{padding:20px;border:1px solid #0d4745;font-size:26px}tr{color:#1a252b}
+/*# sourceMappingURL=main.153c1f15.chunk.css.map */
